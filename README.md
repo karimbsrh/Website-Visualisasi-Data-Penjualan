@@ -1,2 +1,2 @@
 # Website-Visualisasi-Data-Penjualan
-Tugas Besar Perancangan Aplikasi Sains Data
+code page sreamlit tanpa basabasi
